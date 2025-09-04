@@ -7,3 +7,5 @@ def criaDicionario(matriz):
                 dicionario[i].append(j)
     #return dicionario
     print (dicionario)
+
+criaDicionario([[0, 1, 0, 0], [1, 0, 1, 1], [0, 1, 0, 1], [0, 1, 1, 0]])
